@@ -12,3 +12,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	Git add only one logical change at a time to the taging area and then only commit those files that match
 	that logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches will help when implemnting experimental features or testing out something that may not be suited for the master branch.
+	
