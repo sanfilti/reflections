@@ -16,3 +16,9 @@ Describe the differences between forks, clones, and branches. When would you use
  	branches - can be done on local and remote repositories.  Creates a new branch of the existing repository
  	and allows for testing of new features/bug fixes/etc without changing the existing
  	branch.
+
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ 	The benefit of having the last known state of the remote repo stored locally is that
+ 	your local repo is then not far off commits when you got to pull from the remote again.
+ 	
