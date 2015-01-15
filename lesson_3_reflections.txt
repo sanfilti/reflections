@@ -27,4 +27,13 @@ Describe the differences between forks, clones, and branches. When would you use
  	You could use some online collaboration tool, such as DropBox or Google Docs.  Or, simply send documents back
  	and forth.
  	GitHub makes it much easier.
+
+ When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+ 	You would make changes in a separate branch when you are trying something experimental or testing a new feature
+ 	that is not 100% ready for the master branch.  
+ 	Sticking everything in the main branch simplifies the repository, but doesn't allow for testing of 
+ 	new features unless you are sure they work.
+
+ 	
  	
